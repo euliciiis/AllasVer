@@ -95,3 +95,43 @@ span {
 	font-size: 25px;
 	font-weight: 500px;
 }
+
+.form-control{
+    flex: 0 0 auto;
+    width: 100%;
+    background-color: #dedede;
+    min-height: 50px;
+    font-size: 25px;
+}
+
+.text-message{
+    width: 100%;
+    background-color: #dedede;
+    min-height: 100px;
+    font-size: 25px;
+    resize: none;
+}
+
+.btn-submit {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #434a54;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    color: white;
+    background-color: blue;
+    padding: .5rem 1.5rem;
+    font-size: 1.5rem;
+    border-radius: 3rem;
+}
+
+.text-secondary {
+    color: #656d78!important;
+}
+.pb-2 {
+    padding-bottom: 1rem!important;
+    font-size: 25px;
+}
